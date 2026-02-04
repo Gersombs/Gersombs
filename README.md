@@ -34,9 +34,9 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gersombs&show_icons=true&theme=dracula" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gersombs&layout=compact&langs_count=6&theme=dracula" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=Gersombs&theme=dracula" />
 </p>
+
 
 ---
 
