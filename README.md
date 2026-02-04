@@ -72,16 +72,17 @@
 ###
 
 <div align="center">
-  <a href="https://open.spotify.com/user/Gersombs">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Gersombs&count=3&unique=false" alt="Spotify recently played"  />
+  <a href="https://open.spotify.com/user/![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=83bgtme0a6e003bsydca3cjpx)">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=!%5BAlt%20text%5D(https://spotify-recently-played-readme.vercel.app/api?user=83bgtme0a6e003bsydca3cjpx)&count=3&unique=false" alt="Spotify recently played"  />
   </a>
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Gersombs&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2&custom_title=Gersombs" height="150" alt="languages graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=Gersombs&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gersombs&layout=compact&langs_count=6&theme=dracula" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Gersombs&show_icons=true&theme=dracula" height="150" />
 </div>
+
 
 ###
