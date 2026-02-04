@@ -1,14 +1,14 @@
-<h3 align="left">Frontend Developer con enfoque en UX/UI.<br>Me gusta crear interfaces claras, funcionales y visualmente cuidadas, priorizando la experiencia del usuario.<br>Trabajo con tecnologías modernas del ecosistema web y siempre busco mejorar tanto en diseño como en código.</h3>
-
-###
-
-<img align="right" height="150" src="https://image2url.com/r2/default/gifs/1770240681944-a81ac7c8-d02a-44d0-b239-5972f85f059c.gif"  />
+<h2 align="left">Frontend Developer con enfoque en UX/UI.<br>Me gusta crear interfaces claras, funcionales y visualmente cuidadas, priorizando la experiencia del usuario.<br>Trabajo con tecnologías modernas del ecosistema web y siempre busco mejorar tanto en diseño como en código.</h2>
 
 ###
 
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=tokyonight"  />
 </div>
+
+###
+
+<img align="right" height="150" src="https://image2url.com/r2/default/gifs/1770240681944-a81ac7c8-d02a-44d0-b239-5972f85f059c.gif"  />
 
 ###
 
@@ -57,9 +57,11 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Gersombs/Gersombs/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gersombs/Gersombs/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Gersombs/Gersombs/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Gersombs/Gersombs/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
 
@@ -70,16 +72,16 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gersombs&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Gersombs&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <a href="https://open.spotify.com/user/![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=83bgtme0a6e003bsydca3cjpx)">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=!%5BAlt%20text%5D(https://spotify-recently-played-readme.vercel.app/api?user=83bgtme0a6e003bsydca3cjpx)&count=3&unique=false" alt="Spotify recently played"  />
+  </a>
 </div>
 
 ###
 
 <div align="center">
-  <a href="https://open.spotify.com/user/![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=83bgtme0a6e003bsydca3cjpx&unique=true)">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=!%5BAlt%20text%5D(https://spotify-recently-played-readme.vercel.app/api?user=83bgtme0a6e003bsydca3cjpx&unique=true)&count=3&unique=true" alt="Spotify recently played"  />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Gersombs&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2&custom_title=Gersombs" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Gersombs&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
 </div>
 
 ###
