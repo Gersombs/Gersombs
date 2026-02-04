@@ -1,4 +1,4 @@
-<h2 align="left">Frontend Developer con enfoque en UX/UI.<br>Me gusta crear interfaces claras, funcionales y visualmente cuidadas, priorizando la experiencia del usuario.<br>Trabajo con tecnologías modernas del ecosistema web y siempre busco mejorar tanto en diseño como en código.</h2>
+<h3 align="left">Frontend Developer con enfoque en UX/UI.<br>Me gusta crear interfaces claras, funcionales y visualmente cuidadas, priorizando la experiencia del usuario.<br>Trabajo con tecnologías modernas del ecosistema web y siempre busco mejorar tanto en diseño como en código.</h3>
 
 ###
 
@@ -72,8 +72,8 @@
 ###
 
 <div align="center">
-  <a href="https://open.spotify.com/user/![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=83bgtme0a6e003bsydca3cjpx)">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=!%5BAlt%20text%5D(https://spotify-recently-played-readme.vercel.app/api?user=83bgtme0a6e003bsydca3cjpx)&count=3&unique=false" alt="Spotify recently played"  />
+  <a href="https://open.spotify.com/user/![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=Gersombs))">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=!%5BAlt%20text%5D(https://spotify-recently-played-readme.vercel.app/api?user=Gersombs))&count=3&unique=false" alt="Spotify recently played"  />
   </a>
 </div>
 
